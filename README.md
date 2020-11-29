@@ -1,5 +1,5 @@
 # Youtube-Clone-ReactJS-
-simple YouTube clone in reactJs
+simple YouTube clone in reactJs Asseessment-I
 
 Requirements: npm, Youtube API
 
@@ -9,3 +9,5 @@ How To Run?
 
 **IMP NOTE**
 You need to set your own Youtube API Key in 'key.js' file which is inside src folder.
+
+Head to https://developers.google.com/ for YouTube API.
